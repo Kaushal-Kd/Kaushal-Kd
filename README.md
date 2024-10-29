@@ -96,9 +96,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kaushal nimavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal nimavat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:13664889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:13664889" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kaushal nimavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaushal nimavat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushal nimavat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13664889/kd-nimavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:13664889" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@youaretheknowledge6985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kaushal nimavat" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushal-kd&show_icons=true&locale=en&layout=compact" alt="kaushal-kd" /></p>
