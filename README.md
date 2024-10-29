@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Nimavat</h1>
 <h3 align="center">I've 7+ years of experience on web Development with ASP.NET Core/MVC</h3>
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"><br>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding"><br><br>
 
 
 
