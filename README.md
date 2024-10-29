@@ -2,7 +2,7 @@
 <h3 align="center">I've 7+ years of experience on web Development with ASP.NET Core/MVC</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
-<p align="left">
+
 
 - 📝 I regularly write articles on <a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/details/featured/" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View Articles</a>
 
@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mbTO-bzH0mmiJ2eTLZjRLIUsQ5oTc16m/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none;">View Resume</a>
 
-</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
