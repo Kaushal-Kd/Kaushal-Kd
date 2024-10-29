@@ -12,107 +12,96 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mbTO-bzH0mmiJ2eTLZjRLIUsQ5oTc16m/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none;">View Resume</a><br><br><br>
 
+<h3 align="left">Languages and Tools:</h3>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Languages and Tools</title>
-</head>
-<body>
-    <h3 align="left">Languages and Tools:</h3>
-
-    <div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
-        <!-- Programming Languages -->
-        <div>
-            <h4>Programming Languages</h4>
-            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-                <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-                </a>
-                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-                </a>
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-                </a>
-                <a href="https://www.python.org" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-                </a>
-                <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-                </a>
-                <a href="https://angular.io" target="_blank" rel="noreferrer">
-                    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-                </a>
-                <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-                </a>
-                <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-                </a>
-            </div>
-        </div>
-
-        <!-- Back-End Technologies -->
-        <div>
-            <h4>Back-End Technologies</h4>
-            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-                <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-                </a>
-                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-                </a>
-                <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-                </a>
-                <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-                </a>
-                <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
-                </a>
-                <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-                </a>
-                <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-                </a>
-            </div>
-        </div>
-
-        <!-- Cloud and Other Technologies -->
-        <div>
-            <h4>Cloud and Other Technologies</h4>
-            <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-                <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-                </a>
-                <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-                </a>
-                <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-                </a>
-                <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-                </a>
-                <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-                </a>
-                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-                </a>
-                <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-                    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-                </a>
-            </div>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
+    
+    <div>
+        <h4>Programming Languages</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+            </a>
+            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+            </a>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+            </a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+            </a>
+            <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+            </a>
+            <a href="https://angular.io" target="_blank" rel="noreferrer">
+                <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+            </a>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+            </a>
+            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
+            </a>
         </div>
     </div>
-</body>
-</html>
+
+    
+    <div>
+        <h4>Back-End Technologies</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+            </a>
+            <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+            </a>
+            <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+                <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+            </a>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+            </a>
+            <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40"/>
+            </a>
+            <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+            </a>
+            <a href="https://www.postman.com" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+            </a>
+        </div>
+    </div>
+
+
+    <div>
+        <h4>Cloud and Other Technologies</h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+            <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+            </a>
+            <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+            </a>
+            <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+            </a>
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+            </a>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+            </a>
+            <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+            </a>
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+            </a>
+        </div>
+    </div>
+</div>
 
 
 
