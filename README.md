@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushal Nimavat</h1>
 <h3 align="center">I've 7+ years of experience on web Development with ASP.NET Core/MVC</h3>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushal-kd" alt="kaushal-kd" /></a> </p>
 
