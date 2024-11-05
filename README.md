@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kdnimavat577@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1mbTO-bzH0mmiJ2eTLZjRLIUsQ5oTc16m/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none;">View Resume</a><br><br><br>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1V4VbzYb4HGKFF0WQZR6x738wF6g7PXCF/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none;">View Resume</a><br><br><br>
 
 <h3 align="left">Languages and Tools:</h3>
 
