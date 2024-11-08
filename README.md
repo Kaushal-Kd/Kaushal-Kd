@@ -8,6 +8,12 @@
 
 - 💬 Ask me about **ASP.Net MVC/Core, AJAX, Web API, React, NextJs, Azure, Aws, GC, Smart Search, ADF**
 
+- <p style="text-align: center; font-family: Arial, sans-serif; color: #444;">
+    🔗 what others have to say about my work 
+    <a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/details/recommendations/" target="_blank" style="color: #0077B5;">Recommendations</a>
+</p>
+
+
 - 📫 How to reach me **kdnimavat577@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1V4VbzYb4HGKFF0WQZR6x738wF6g7PXCF/view?usp=sharing" style="display: inline-block; padding: 10px 15px; background-color: #28a745; color: white; border-radius: 5px; text-decoration: none;">View Resume</a><br><br><br>
