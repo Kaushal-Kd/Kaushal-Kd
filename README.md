@@ -4,7 +4,6 @@
 
 
 
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/details/featured/" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View Articles</a>
 
 - 💬 Ask me about **ASP.Net MVC/Core, AJAX, Web API, React, NextJs, Azure, Aws, GC, Smart Search, ADF**
 
@@ -12,6 +11,9 @@
     🔗 what others have to say about my work 
     <a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/details/recommendations/" target="_blank" style="color: #0077B5;">Recommendations</a>
 </p>
+
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/kaushal-nimavat-957969113/details/featured/" style="display: inline-block; padding: 10px 15px; background-color: #007bff; color: white; border-radius: 5px; text-decoration: none;">View Articles</a>
+
 
 
 - 📫 How to reach me **kdnimavat577@gmail.com**
